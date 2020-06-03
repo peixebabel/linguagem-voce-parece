@@ -22,10 +22,13 @@ E o Alan Turing?
 
 E o nosso querido Drauzio Varella?
 
+![A imagem diz no alto: Com que linguagem você se parece. Tem o rosto do Drauzio Varella na esquerda e suas top 5 linguagens na direita. São elas R, C#, C++, Html e Python. Em baixo o texto: Você aparenta 65 anos. Seu gênero aparente é Masculino. Seu coeficiente de barba [0-1] é 0.1. Com coeficiente de bigode de 0.1 e de costeletas de 0.1. Seu coeficiente de sorriso [0-1] é 0.958. Sua emoção é Felicidade.](https://github.com/peixebabel/linguagem-voce-parece/blob/master/drauzio.jpeg)
+
+
 Se não estiver acessível, por favor nos infome para que a gente arrume!
 Ah! A API usada só retorna os gêneros Masculino e Feminino, por isso apenas eles são indicados.
 
-> # Scripts:
+> # Arquivos
 
 - bayes_model.pkl	: Inferência bayesiana
 - github_stereotype.py : Conexão com o Anvil (Interface)
