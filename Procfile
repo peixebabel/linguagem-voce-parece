@@ -1,1 +1,1 @@
-web: gunicorn github_stereotype:app
+web: python server.py
