@@ -123,15 +123,3 @@ def run(url):
   topk   = [linguagens[str(n)] for n in best_n[0]]
 
   return img, face, topk
-
-import time
-time.sleep(300)
-
-
-import flask
-app = flask.Flask(__name__)
-
-@app.route("/")
-def index():
-    #do whatevr here...
-    return "Hello Heruko"
