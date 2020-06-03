@@ -10,7 +10,7 @@ Original file is located at
 """
 
 import urllib.request
-import re, pickle, os, json
+import re, pickle, os, json, sys
 import numpy as np
 
 from PIL import Image
@@ -23,6 +23,10 @@ import matplotlib.pyplot as plt
 
 from azure.cognitiveservices.vision.face import FaceClient
 from msrest.authentication import CognitiveServicesCredentials
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gettingstarted.settings")
+from django.core.management import execute_from_command_line
+execute_from_command_line(sys.argv)
 
 """#### Code"""
 
