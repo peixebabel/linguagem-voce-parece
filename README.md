@@ -23,3 +23,6 @@ E o Alan Turing?
 
 Se não estiver acessível, por favor nos infome para que a gente arrume!
 Ah! A API usada só retorna os gêneros Masculino e Feminino, por isso apenas eles são indicados.
+
+> Scripts:
+
