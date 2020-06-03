@@ -20,9 +20,15 @@ E o Alan Turing?
 
 ![A imagem diz no alto: Com que linguagem você se parece. Tem o rosto do Alan Turing na esquerda e suas top 5 linguagens na direita. São elas C#, C, Go, Java e Html. Em baixo o texto: Você aparente 40 anos. Seu gênero aparente é Masculino. Seu coeficiente de barba é 0.1 com coeficiente de costeleda e de bigode de 0.1. Seu coeficiente de sorriso é 0.022. Sua emoção é neutro.](https://drive.google.com/uc?export=view&id=1sWuPq272O3fyOyJjuJCDwNZYej2FHYY_)
 
+E o nosso querido Drauzio Varella?
 
 Se não estiver acessível, por favor nos infome para que a gente arrume!
 Ah! A API usada só retorna os gêneros Masculino e Feminino, por isso apenas eles são indicados.
 
-> Scripts:
+> # Scripts:
 
+- bayes_model.pkl	: Inferência bayesiana
+- github_stereotype.py : Conexão com o Anvil (Interface)
+- github_stereotype.ipynb : Análise dos dados
+- linguagens.txt : Linguagens inclusas na análise
+- requirements.txt : Bibliotecas necessárias
