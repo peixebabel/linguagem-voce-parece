@@ -1,1 +1,1 @@
-worker: python github_stereotype.py 
+web: gunicorn github_stereotype:app
