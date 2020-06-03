@@ -18,3 +18,4 @@ pandas-gbq==0.11.0
 pandas-profiling==1.4.1
 voila==0.1.21
 django-heroku
+gunicorn
