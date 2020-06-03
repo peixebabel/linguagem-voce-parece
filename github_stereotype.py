@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 from azure.cognitiveservices.vision.face import FaceClient
 from msrest.authentication import CognitiveServicesCredentials
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "linguagem-voce-parece.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "settings")
 from django.core.management import execute_from_command_line
 execute_from_command_line(sys.argv)
 
